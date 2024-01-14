@@ -12,6 +12,9 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
 }
+span {
+  color: #2e2f42;
+}
 h1 {
   line-height: 1.07;
   font-weight: 700;
