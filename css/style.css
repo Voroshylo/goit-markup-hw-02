@@ -1,0 +1,33 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #333;
+  background-color: #f4f4f4;
+}
+h1 {
+  line-height: 1.07;
+  font-weight: 700;
+}
+
+a {
+  text-decoration: none;
+  size: 16px;
+  line-height: 1.5;
+  font-weight: 500;
+}
+
+ul, ol {
+  list-style: none;
+}
+h2 {
+  size: 20px;
+  line-height: 1.2;
+  font-weight: 500;
+}
+h3 {
+  size: 16px;
+  line-height: 1.5;
+  font-weight: 400;
+}
+.nav {
+background-color:#FFFFFF
+}
