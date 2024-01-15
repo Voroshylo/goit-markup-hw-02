@@ -14,17 +14,24 @@ h3 {
   letter-spacing: 0.02em;
   color:#2e2f42;
 }
-.nav {
-background-color:#FFFFFF
-}
 p {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
+.nav {
+background-color:#FFFFFF
+}
+.list-first{
+  text-decoration: none;
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: 500;
+}
 .button {
   cursor: pointer;
+  font-weight: 500;
 }
 body {
   font-family: 'Roboto', sans-serif;
@@ -48,7 +55,6 @@ a {
   text-decoration: none;
   font-size: 16px;
   line-height: 1.5;
-  font-weight: 500;
 }
 
 .list-first {
@@ -128,4 +134,9 @@ background-color: #FFFFFF
 .span-footer {
 color:#F4F4FD
 }
-
+ul {
+  list-style: none;
+}
+li {
+  list-style: none;
+}
